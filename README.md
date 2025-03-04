@@ -13,8 +13,8 @@
 
 📊 데이터 수집 및 분석 방법  
 📌 데이터 출처  
-도로교통공단(TAAS): 2021~2023년 서울시 음주운전 사고 데이터  
-경찰청 
+도로교통공단(TAAS), 경찰청: 2021~2023년 서울시 음주운전 사고건수 데이터(6250건)
+
 
 📌 분석 도구 & 라이브러리    
 Python: Pandas, Numpy, Scikit-learn, GridSearchCV, Matplotlib, Seaborn, pickle  
