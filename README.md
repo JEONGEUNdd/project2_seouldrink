@@ -20,9 +20,9 @@ Python: Pandas, Numpy, Scikit-learn, GridSearchCV, Matplotlib, Seaborn, pickle
 R: ggplot2, dplyr
 
 ### 데이터 분석 기법  
-머신러닝 모델(XGBoost, Random Forest, SVM, KNN): 음주운전 사고 발생 가능성 예측  
-사고 위험도 점수화: 사고 발생 빈도, 사고 유형(사망/중상 여부), 시간대별 사고 비율 등을 고려하여 점수화  
-100점 만점 기준으로 정규화하여 단속 우선순위 설정
+- 머신러닝 모델(XGBoost, Random Forest, SVM, KNN): 음주운전 사고 발생 가능성 예측  
+- 사고 위험도 점수화: 사고 발생 빈도, 사고 유형(사망/중상 여부), 시간대별 사고 비율 등을 고려하여 점수화  
+- 100점 만점 기준으로 정규화하여 단속 우선순위 설정
 
 # 주요 분석 결과    
 1. DecisionTreeRegression 모델을 활용한 사고 예측
