@@ -16,8 +16,8 @@
 도로교통공단(TAAS), 경찰청: 2021~2023년 서울시 음주운전 사고건수 데이터(6250건)
 
 ### 분석 도구 & 라이브러리    
-Python: Pandas, Numpy, Scikit-learn, GridSearchCV, Matplotlib, Seaborn, pickle  
-R: ggplot2, dplyr
+- Python: Pandas, Numpy, Scikit-learn, GridSearchCV, Matplotlib, Seaborn, pickle  
+- R: ggplot2, dplyr
 
 ### 데이터 분석 기법  
 - 머신러닝 모델(XGBoost, Random Forest, SVM, KNN): 음주운전 사고 발생 가능성 예측  
